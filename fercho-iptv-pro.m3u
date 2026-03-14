@@ -93,3 +93,43 @@ https://wptlive-lh.akamaihd.net/i/wpt_1@346076/master.m3u8
 
 #EXTINF:-1 group-title="Deportes",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+# --- COLOMBIA EXTRA ---
+#EXTINF:-1 group-title="Colombia",RTVC Señal Colombia HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_Institucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Capital
+https://live.canalcapital.gov.co/live/canalcapital.m3u8
+
+# --- NOTICIAS ---
+#EXTINF:-1 group-title="Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 group-title="Noticias",Bloomberg TV
+https://bloomberg-bloomberg-1-br.samsung.wurl.tv/playlist.m3u8
+
+# --- DEPORTES ---
+#EXTINF:-1 group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",World Poker Tour
+https://wptlive-lh.akamaihd.net/i/wpt_1@346076/master.m3u8
+
+# --- ENTRETENIMIENTO ---
+#EXTINF:-1 group-title="Entretenimiento",NASA TV
+https://ntv1-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Rakuten TV Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",FilmRise Classic TV
+https://filmrise-classic-tv-1.samsung.wurl.tv/playlist.m3u8
