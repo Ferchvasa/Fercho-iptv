@@ -76,3 +76,20 @@ https://nhkworldtv-live.akamaized.net/hls/live/2115119/nhkworldtv/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",Arirang TV
 https://amdlive-ch01.ctnd.com.ar:443/arirang/index.m3u8
+
+# --- DEPORTES ---
+
+#EXTINF:-1 group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",FIFA+
+https://d3vd9lfkzbru3h.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",Olympic Channel
+https://olympicchannel-lh.akamaihd.net/i/ocs-b1_1@198909/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",World Poker Tour
+https://wptlive-lh.akamaihd.net/i/wpt_1@346076/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
