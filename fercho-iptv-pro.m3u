@@ -128,6 +128,13 @@ https://wptlive-lh.akamaihd.net/i/wpt_1@346076/master.m3u8
 #EXTINF:-1 group-title="Entretenimiento",NASA TV
 https://ntv1-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 group-title="Colombia",Caracol TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 group-title="Colombia",RCN TV
+http://199.180.114.174:84/crcn.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Rakuten TV Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
